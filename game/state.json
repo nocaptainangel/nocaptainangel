@@ -1,9 +1,29 @@
 {
-  "board": [null, null, null, null, null, null, null, null, null],
-  "turn": "X",
-  "last_player": null,
-  "recent": [],
-  "stats": {"X": 0, "O": 0, "draw": 0},
+  "board": [
+    "X",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "turn": "O",
+  "last_player": "nocaptainangel",
+  "recent": [
+    {
+      "user": "nocaptainangel",
+      "piece": "X",
+      "square": 0
+    }
+  ],
+  "stats": {
+    "X": 0,
+    "O": 0,
+    "draw": 0
+  },
   "games": 0,
   "last_result": null
 }
