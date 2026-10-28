@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td colspan="2">
-      <h3>Hey there! I'm Angel 🌿</h3>
+      <h3>Hi I'm Angel ✨</h3>
     </td>
   </tr>
   <tr>
@@ -15,7 +15,7 @@
 
 **UI/UX Designer & Frontend Developer**
 
-I'm based in Almere and I love designing warm, thoughtful products, then building them myself, from the first sketch all the way to production.
+I'm based in The Netherlands and I love designing warm, thoughtful products, then building them myself, from the first sketch all the way to production.
 
 Right now I'm pouring my energy into **Chefsey**, a home for food stories and recipes (think Substack for food). My playground is design systems, motion that feels alive, Figma, and the frontend code that makes it all real.
 
