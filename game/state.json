@@ -1,0 +1,9 @@
+{
+  "board": [null, null, null, null, null, null, null, null, null],
+  "turn": "X",
+  "last_player": null,
+  "recent": [],
+  "stats": {"X": 0, "O": 0, "draw": 0},
+  "games": 0,
+  "last_result": null
+}
