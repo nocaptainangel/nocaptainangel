@@ -2,9 +2,6 @@
 
 <p align="center">
   <a href="https://angellei.com"><img src="https://img.shields.io/badge/ANGELLEI.COM-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="angellei.com"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:angel.leijendekker@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://angellei.com"><img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
 </p>
 
 <table>
