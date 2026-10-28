@@ -44,9 +44,4 @@ Right now I'm pouring my energy into **Chefsey**, a home for food stories and re
   </tr>
 </table>
 
-<h3 align="center">my year in 3d</h3>
-<p align="center"><sub>someone may have written her name in it</sub></p>
 
-<img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="my contribution graph as a little 3d city">
-
-<img src="assets/strip.svg" width="100%" alt="">
