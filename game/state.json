@@ -5,14 +5,19 @@
     null,
     "O",
     "O",
-    null,
+    "X",
     "X",
     null,
     null
   ],
-  "turn": "X",
-  "last_player": "leijendary",
+  "turn": "O",
+  "last_player": "nocaptainangel",
   "recent": [
+    {
+      "user": "nocaptainangel",
+      "piece": "X",
+      "square": 5
+    },
     {
       "user": "leijendary",
       "piece": "O",
